@@ -1,0 +1,1 @@
+Veiculo{placa='FXY2019', data_ent=2021-11-30T19:34:12.966501, data_saida=null, tipoVeiculo='Carro'}
